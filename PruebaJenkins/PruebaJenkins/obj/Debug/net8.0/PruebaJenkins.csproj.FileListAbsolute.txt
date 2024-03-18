@@ -1,0 +1,15 @@
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\bin\Debug\net8.0\PruebaJenkins.exe
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\bin\Debug\net8.0\PruebaJenkins.deps.json
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\bin\Debug\net8.0\PruebaJenkins.runtimeconfig.json
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\bin\Debug\net8.0\PruebaJenkins.dll
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\bin\Debug\net8.0\PruebaJenkins.pdb
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.AssemblyInfoInputs.cache
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.AssemblyInfo.cs
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.csproj.CoreCompileInputs.cache
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.sourcelink.json
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.dll
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\refint\PruebaJenkins.dll
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.pdb
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\PruebaJenkins.genruntimeconfig.cache
+C:\Repos\jenkinslab\PruebaJenkins\PruebaJenkins\obj\Debug\net8.0\ref\PruebaJenkins.dll
